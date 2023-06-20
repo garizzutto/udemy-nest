@@ -1,4 +1,1 @@
-{
-  "id": 1,
-  "message": "Hello World"
-}
+[{"id":1,"message":"Hello World"},{"id":"adabc12d-59d7-4bcb-97ce-58342afbecf3","content":"hi there!"},{"id":"5e0274f2-0c6d-4a3d-87bb-43201484b20a","content":"hi there!"},{"id":"534f33a1-d63f-4c1e-b8a2-46944e3ebf33","content":"hi there!"},{"id":"fd434f9b-188e-4fe4-83ad-2999d516f929","content":"hi there!"},{"id":"1bba378d-bfe7-4ee6-8c92-777eec887588","content":"hi there!"},{"id":"43c2cf0e-42a5-4abc-b9e0-bb6a5950685d","content":"hi there!"},{"id":"c07adf5c-cfe4-4cf6-84fd-967ff152ee55","content":"hi there!"}]
